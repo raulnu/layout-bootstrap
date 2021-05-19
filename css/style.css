@@ -10,7 +10,7 @@ ul{
   color: #fff;
 }
 .contenedor-general{
-  height: calc(100vh - 200px);
+  min-height: calc(100vh - 200px);
   color: #333;
 }
 .articulo{
