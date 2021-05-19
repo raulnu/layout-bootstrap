@@ -1,10 +1,17 @@
+ul{
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
 .cabecera, .pie{
   background-color: #2d3142;
   height: 100px;
+  color: #fff;
 }
-
 .contenedor-general{
   height: calc(100vh - 200px);
+  color: #333;
 }
 .articulo{
   background-color: #d8d5db;
