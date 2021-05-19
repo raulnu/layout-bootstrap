@@ -1,0 +1,15 @@
+.cabecera, .pie{
+  background-color: #2d3142;
+  height: 100px;
+}
+
+.contenedor-general{
+  height: calc(100vh - 200px);
+}
+.articulo{
+  background-color: #d8d5db;
+}
+
+.contenido-secundario{
+  background-color: #adacb5;
+}
