@@ -1,9 +1,3 @@
-ul{
-  list-style: none;
-  margin-left: 0;
-  padding-left: 0;
-}
-
 .cabecera, .pie{
   background-color: #2d3142;
   height: 100px;
